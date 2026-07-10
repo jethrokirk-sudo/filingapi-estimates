@@ -1,1 +1,184 @@
-[]
+[
+  {
+    "indicator": "NFP",
+    "release_date": "2026-01-09",
+    "estimate": "158655.281",
+    "actual": "158592.0",
+    "estimate_generated_at": "2026-07-07 11:41:33.189131"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-01-14",
+    "estimate": "152.651",
+    "actual": "152.145",
+    "estimate_generated_at": "2026-07-07 11:41:46.498079"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-01-15",
+    "estimate": "326.188",
+    "actual": "325.252",
+    "estimate_generated_at": "2026-07-07 11:41:39.518640"
+  },
+  {
+    "indicator": "NFP",
+    "release_date": "2026-02-06",
+    "estimate": "158493.537",
+    "actual": "158436.0",
+    "estimate_generated_at": "2026-07-07 11:41:33.532973"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-02-12",
+    "estimate": "327.867",
+    "actual": "326.785",
+    "estimate_generated_at": "2026-07-07 11:41:39.860627"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-02-13",
+    "estimate": "153.821",
+    "actual": "153.188",
+    "estimate_generated_at": "2026-07-07 11:41:46.640255"
+  },
+  {
+    "indicator": "NFP",
+    "release_date": "2026-03-06",
+    "estimate": "158710.168",
+    "actual": "158650.0",
+    "estimate_generated_at": "2026-07-07 11:41:33.915303"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-03-11",
+    "estimate": "332.843",
+    "actual": "330.213",
+    "estimate_generated_at": "2026-07-07 11:41:40.181074"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-03-12",
+    "estimate": "155.529",
+    "actual": "154.664",
+    "estimate_generated_at": "2026-07-07 11:41:46.786507"
+  },
+  {
+    "indicator": "NFP",
+    "release_date": "2026-04-03",
+    "estimate": "158787.341",
+    "actual": "158798.0",
+    "estimate_generated_at": "2026-07-07 11:41:34.270309"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-04-10",
+    "estimate": "335.01",
+    "actual": "333.02",
+    "estimate_generated_at": "2026-07-07 11:41:40.510075"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-04-11",
+    "estimate": "157.518",
+    "actual": "156.395",
+    "estimate_generated_at": "2026-07-07 11:41:46.933754"
+  },
+  {
+    "indicator": "NFP",
+    "release_date": "2026-05-01",
+    "estimate": "158787.341",
+    "actual": "158927.0",
+    "estimate_generated_at": "2026-07-07 11:41:34.639195"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-05-13",
+    "estimate": "336.626",
+    "actual": "335.123",
+    "estimate_generated_at": "2026-07-07 11:41:40.855691"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-05-14",
+    "estimate": "159.254",
+    "actual": "158.012",
+    "estimate_generated_at": "2026-07-07 11:41:47.082301"
+  },
+  {
+    "indicator": "NFP",
+    "release_date": "2026-06-05",
+    "estimate": "159048.71",
+    "actual": "158984.0",
+    "estimate_generated_at": "2026-07-07 11:41:34.994269"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-06-11",
+    "estimate": "336.626",
+    "actual": null,
+    "estimate_generated_at": "2026-07-07 11:41:41.183512"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-06-11",
+    "estimate": "159.254",
+    "actual": "158.012",
+    "estimate_generated_at": "2026-07-07 11:41:47.227518"
+  },
+  {
+    "indicator": "NFP",
+    "release_date": "2026-07-03",
+    "estimate": "159048.71",
+    "actual": "158984.0",
+    "estimate_generated_at": "2026-07-06 18:47:54.602462"
+  },
+  {
+    "indicator": "JOBLESS",
+    "release_date": "2026-07-10",
+    "estimate": "215089.071",
+    "actual": null,
+    "estimate_generated_at": "2026-07-06 18:47:55.618054"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-07-15",
+    "estimate": "336.626",
+    "actual": null,
+    "estimate_generated_at": "2026-07-06 18:47:54.942113"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-07-15",
+    "estimate": "159.254",
+    "actual": null,
+    "estimate_generated_at": "2026-07-06 18:47:55.296765"
+  },
+  {
+    "indicator": "NFP",
+    "release_date": "2026-08-07",
+    "estimate": "159048.71",
+    "actual": null,
+    "estimate_generated_at": "2026-07-06 18:47:52.865217"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-08-12",
+    "estimate": "336.626",
+    "actual": null,
+    "estimate_generated_at": "2026-07-06 18:47:53.220479"
+  },
+  {
+    "indicator": "JOBLESS",
+    "release_date": "2026-08-13",
+    "estimate": "215089.071",
+    "actual": null,
+    "estimate_generated_at": "2026-07-06 18:47:53.895196"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-08-13",
+    "estimate": "159.254",
+    "actual": null,
+    "estimate_generated_at": "2026-07-06 18:47:53.574394"
+  }
+]
