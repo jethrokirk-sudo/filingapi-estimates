@@ -1,0 +1,50 @@
+[
+  {
+    "indicator": "CPI",
+    "release_date": "2026-06-11",
+    "estimate": "336.626",
+    "estimate_generated_at": "2026-07-07 11:41:41.183512"
+  },
+  {
+    "indicator": "JOBLESS",
+    "release_date": "2026-07-10",
+    "estimate": "215089.071",
+    "estimate_generated_at": "2026-07-06 18:47:55.618054"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-07-15",
+    "estimate": "336.626",
+    "estimate_generated_at": "2026-07-06 18:47:54.942113"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-07-15",
+    "estimate": "159.254",
+    "estimate_generated_at": "2026-07-06 18:47:55.296765"
+  },
+  {
+    "indicator": "NFP",
+    "release_date": "2026-08-07",
+    "estimate": "159048.71",
+    "estimate_generated_at": "2026-07-06 18:47:52.865217"
+  },
+  {
+    "indicator": "CPI",
+    "release_date": "2026-08-12",
+    "estimate": "336.626",
+    "estimate_generated_at": "2026-07-06 18:47:53.220479"
+  },
+  {
+    "indicator": "JOBLESS",
+    "release_date": "2026-08-13",
+    "estimate": "215089.071",
+    "estimate_generated_at": "2026-07-06 18:47:53.895196"
+  },
+  {
+    "indicator": "PPI",
+    "release_date": "2026-08-13",
+    "estimate": "159.254",
+    "estimate_generated_at": "2026-07-06 18:47:53.574394"
+  }
+]
