@@ -136,7 +136,7 @@
     "indicator": "JOBLESS",
     "release_date": "2026-07-10",
     "estimate": "215089.071",
-    "actual": null,
+    "actual": "215000.0",
     "estimate_generated_at": "2026-07-06 18:47:55.618054"
   },
   {
