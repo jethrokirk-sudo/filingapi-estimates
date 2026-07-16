@@ -143,14 +143,14 @@
     "indicator": "CPI",
     "release_date": "2026-07-15",
     "estimate": "336.626",
-    "actual": null,
+    "actual": "333.952",
     "estimate_generated_at": "2026-07-06 18:47:54.942113"
   },
   {
     "indicator": "PPI",
     "release_date": "2026-07-15",
     "estimate": "159.254",
-    "actual": null,
+    "actual": "157.045",
     "estimate_generated_at": "2026-07-06 18:47:55.296765"
   },
   {
